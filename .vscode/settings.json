@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/bb63ca31-794b-4e8e-924e-b74454621cb1/resourceGroups/iit-testing-webapp-rg/providers/Microsoft.Web/sites/iit-testing-webapp-rsharma",
+    "appService.deploySubpath": "TestingGIT"
+}
